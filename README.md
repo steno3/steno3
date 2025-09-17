@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nino Rottier</h1>
+<h3 align="center">A computer science engineering student graduating in Computer Vision and Image Processing</h3>
+
 
 <!--
 **steno3/steno3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
